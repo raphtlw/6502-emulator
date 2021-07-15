@@ -9,6 +9,7 @@ What better way to learn about CPUs than to actually build one out from scratch,
 <http://obelisk.me.uk/6502>
 <https://www.youtube.com/watch?v=qJgsuQoy9bc>
 <https://github.com/davepoo/6502Emulator>
+<https://www.youtube.com/watch?v=LnzuMJLZRdU>
 
 ## Notes
 
